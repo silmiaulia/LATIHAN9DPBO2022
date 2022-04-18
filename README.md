@@ -9,20 +9,20 @@ Program ini merupakan implementasi dari Graphical User Interface (GUI) dengan ba
 ### Screenshot Program
 
   <p align="left">
-    <img width="751" height="399" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/tampilanAwal.png">
+    <img width="551" height="299" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/tampilanAwal.png">
   </p>
   
 - Detail Apartemen
   <p align="left">
-    <img width="650" height="520" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_apartemen.png">
+    <img width="480" height="350" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_apartemen.png">
   </p>
 - Detail Rumah
   <p align="left">
-    <img width="580" height="520" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_rumah.png">
+    <img width="400" height="350" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_rumah.png">
   </p>
 - Detail Indekos
   <p align="left">
-    <img width="603" height="520" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_indekos.png">
+    <img width="430" height="350" src="https://github.com/silmiaulia/LATIHAN9DPBO2022/blob/main/ScreenShot/detail_indekos.png">
   </p>
 
 
