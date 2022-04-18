@@ -4,7 +4,7 @@
 > maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
 ### Deskripsi Program 
-Program ini merupakan implementasi dari Graphical User Interface (GUI) dengan bahasa pemrograman python. Pada program yang dibuat ditampilkan seluruh data hunian residem. Pada window utama terdapat tombol detail yang jika di klik akan menampilkan window baru berupa data detail dari setiap jenis hunian. Terdapat data atribut nama pemilik, nama penghuni, jumlah kamar, jumlah penghuni, luas tanah, kapasitas listrik, sumber air, alamat, harga sewa, summary dan dokumen pada window detail. Selain itu ditambahkan tombol exit yang berfungsi sebagaimana mestinya pada window detail.
+Program ini merupakan implementasi dari Graphical User Interface (GUI) dengan bahasa pemrograman python. Pada program yang dibuat ditampilkan seluruh data hunian residen. Pada window utama terdapat tombol detail yang jika di klik akan menampilkan window baru berupa data detail dari setiap jenis hunian. Terdapat data atribut nama pemilik, nama penghuni, jumlah kamar, jumlah penghuni, luas tanah, kapasitas listrik, sumber air, alamat, harga sewa, summary dan dokumen pada window detail. Selain itu ditambahkan tombol exit yang berfungsi sebagaimana mestinya pada window detail.
 
 ### Screenshot Program
 
